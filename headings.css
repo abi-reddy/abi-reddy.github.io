@@ -1,0 +1,30 @@
+@charset "utf-8";
+a:hover {
+    color: #E71A1D;
+}
+
+
+.menu_bar {
+    text-align: center;
+    background-color: #DFAF7E;
+}
+.sec_bar {
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+body {
+    background-color: #FBFFB6;
+}
+.border {
+    border: thin solid #000000;
+    border-top-left-radius: 5px;
+    border-spacing: 12px 15px;
+}
+.Tennis {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+

@@ -1,0 +1,15 @@
+@charset "utf-8";
+label {
+    display: block;
+    margin-top: 1em;
+}
+
+textarea {
+    min-height: 8em;
+    min-width: 20%;
+    border: solid 1px;
+}
+
+.color{
+    color: rgb(134, 0, 0);
+}
