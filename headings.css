@@ -27,4 +27,8 @@ body {
     margin-right: auto;
     display: block;
 }
-
+.gallery{
+    width: 49%;
+    padding: 6px;
+    margin: 0;
+}
